@@ -1,0 +1,12 @@
+// {
+//     "code-runner.executorMap": {
+//         "python": "set PYTHONIOENCODING=utf-8 && /data/home/xiaoqifeng/.conda/envs/error_env/bin/python", 
+//     },
+//     "python.pythonPath": "/data/home/xiaoqifeng/.conda/envs/error_env/bin/python",
+// }
+{
+    "code-runner.executorMap": {
+        "python": "set PYTHONIOENCODING=utf-8 && /data/home/xiaoqifeng/.conda/envs/torch/bin/python", 
+    },
+    "python.pythonPath": "/data/home/xiaoqifeng/.conda/envs/torch/bin/python",
+}

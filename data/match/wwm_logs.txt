@@ -1,0 +1,6 @@
+Epoch: 1, step: 2812, train_loss: 0.11063234508037567, eval_loss: 0.14128240942955017, eval_accuracy: 0.94445, eval_precision: 0.9202083873005504, auc_score: 0.9869054798904976 
+Epoch: 1, step: 5624, train_loss: 0.068308025598526, eval_loss: 0.11757182329893112, eval_accuracy: 0.95675, eval_precision: 0.9320452943726696, auc_score: 0.9912773118744215 
+Epoch: 2, step: 2812, train_loss: 0.06837555766105652, eval_loss: 0.11626813560724258, eval_accuracy: 0.959875, eval_precision: 0.9445824545995761, auc_score: 0.9921394953593924 
+Epoch: 2, step: 5624, train_loss: 0.053858816623687744, eval_loss: 0.10307049006223679, eval_accuracy: 0.964425, eval_precision: 0.9455556148109779, auc_score: 0.9938690085019775 
+Epoch: 3, step: 2812, train_loss: 0.006763206794857979, eval_loss: 0.136977419257164, eval_accuracy: 0.964425, eval_precision: 0.93966354568454, auc_score: 0.9939376143806052 
+Epoch: 3, step: 5624, train_loss: 0.006970625836402178, eval_loss: 0.13142213225364685, eval_accuracy: 0.966325, eval_precision: 0.9441173305967795, auc_score: 0.9942516958874013 
